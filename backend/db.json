@@ -1,0 +1,146 @@
+{
+  "polls": [
+    {
+      "question": "Which backend do you prefer?",
+      "isActive": true,
+      "createdAt": "2026-02-09T15:52:07.891Z",
+      "id": 1
+    },
+    {
+      "question": "Your favourite  Programming language ",
+      "isActive": true,
+      "createdAt": "2026-02-10T07:53:33.213Z",
+      "id": 2
+    },
+    {
+      "question": "Which technology will dominate backend development in the next 5 years?",
+      "isActive": true,
+      "createdAt": "2026-02-10T08:07:49.025Z",
+      "id": 4
+    },
+    {
+      "question": "What is the biggest challenge developer face today ?",
+      "isActive": true,
+      "createdAt": "2026-02-10T08:09:58.544Z",
+      "id": 5
+    },
+    {
+      "question": "How often do you use AI tools while coding ?",
+      "isActive": true,
+      "createdAt": "2026-02-10T08:11:38.958Z",
+      "id": 6
+    }
+  ],
+  "options": [
+    {
+      "pollId": 1,
+      "text": "Node.js",
+      "votes": 0,
+      "id": 1
+    },
+    {
+      "pollId": 1,
+      "text": "Golang",
+      "votes": 1,
+      "id": 2
+    },
+    {
+      "pollId": 1,
+      "text": "Python",
+      "votes": 0,
+      "id": 3
+    },
+    {
+      "pollId": 2,
+      "text": "python ",
+      "votes": 0,
+      "id": 4
+    },
+    {
+      "pollId": 2,
+      "text": "Java ",
+      "votes": 0,
+      "id": 5
+    },
+    {
+      "pollId": 2,
+      "text": "C++",
+      "votes": 0,
+      "id": 6
+    },
+    {
+      "pollId": 2,
+      "text": "Golang",
+      "votes": 0,
+      "id": 7
+    },
+    {
+      "pollId": 4,
+      "text": "Node.js",
+      "votes": 0,
+      "id": 12
+    },
+    {
+      "pollId": 4,
+      "text": "Golang",
+      "votes": 0,
+      "id": 13
+    },
+    {
+      "pollId": 4,
+      "text": "Rust ",
+      "votes": 0,
+      "id": 14
+    },
+    {
+      "pollId": 4,
+      "text": "Java Spring Boot ",
+      "votes": 0,
+      "id": 15
+    },
+    {
+      "pollId": 5,
+      "text": "Debugging Production issues ",
+      "votes": 0,
+      "id": 16
+    },
+    {
+      "pollId": 5,
+      "text": "Learning new technologies ",
+      "votes": 0,
+      "id": 17
+    },
+    {
+      "pollId": 6,
+      "text": "Every day ",
+      "votes": 0,
+      "id": 18
+    },
+    {
+      "pollId": 6,
+      "text": "A few times a week ",
+      "votes": 0,
+      "id": 19
+    },
+    {
+      "pollId": 6,
+      "text": "Rarely ",
+      "votes": 0,
+      "id": 20
+    },
+    {
+      "pollId": 6,
+      "text": "Never ",
+      "votes": 0,
+      "id": 21
+    }
+  ],
+  "votes": [
+    {
+      "pollId": "1",
+      "optionId": "2",
+      "userIp": "::1",
+      "id": 1
+    }
+  ]
+}
